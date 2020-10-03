@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url(01Nuzzo-mediumSquareAt3X.jpg) no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.container{
+    position: relative;
+    margin-top: -117px;
+    width: 350px;
+    height: auto;
+    background: #fdd6b8;
+    border-radius: 100px;
+    font-family: monospace;
+}
+
+
+.label{
+    padding: 7px 92px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #130f40;
+}
+
+.loginform{
+    padding: 39px 47px;
+}
+
+.loginform .user{
+    font-size: 18px;
+    color: #130f40;
+    margin: 5px 0;
+}
+
+.loginform input{
+    height: 34px;
+    width: 244px;
+    padding: 0 5px;
+    font-size: 18px;
+    outline: none;
+    border: 1px solid silver;
+}
+
+.loginform .code{
+    margin-top: 30px;
+}
+
+.loginform button{
+    margin: 45px 0 30px 0;
+    height: 45px;
+    width: 245px;
+    font-size: 20px;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+    background: #39ab61;
+    border-radius: 3px;
+    border: 1px solid #3949AB;
+    transition: 0.5s;
+}
+.loginform button:hover
+{
+    background: #151c6a;
+
+}
+
+.loginform #email_error,
+.loginform #pass_error
+{
+    margin-top: 5px;
+    width: 242px;
+    font-size: 18px;
+    color: #C62828;
+    text-align: center;
+    padding: 5px 8px;
+    display: none;
+}
