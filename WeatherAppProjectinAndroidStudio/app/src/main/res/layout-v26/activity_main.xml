@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/ShowTemperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="@string/showconditions"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/Hour"
+        app:layout_constraintHorizontal_bias="0.115"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/tempperHour"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.022"
+        tools:text="showConditions" />
+
+    <Button
+        android:id="@+id/CurrentConditions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="61dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="262dp"
+        android:layout_marginBottom="527dp"
+        android:onClick="showcurrentWeatherConditions"
+        android:text="@string/current_conditions"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.666"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:text=" Current Conditions" />
+
+    <Button
+        android:id="@+id/AvgTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-24dp"
+        android:layout_marginEnd="227dp"
+        android:onClick="averageTemperaturefor48hours"
+        android:text="@string/average_temp"
+        app:layout_constraintBottom_toTopOf="@+id/PredictTemp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/CurrentConditions"
+        app:layout_constraintTop_toBottomOf="@+id/Hour"
+        app:layout_constraintVertical_bias="0.41"
+        tools:text="@string/average_temp" />
+
+    <Button
+        android:id="@+id/Hour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="61dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="262dp"
+        android:layout_marginBottom="413dp"
+        android:onClick="temperaturefornextfiveHours"
+        android:text="@string/hourly_temperature"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.655"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/CurrentConditions"
+        app:layout_constraintVertical_bias="0.285"
+        tools:text="Hourly Temperature" />
+
+    <TextView
+        android:id="@+id/averagetemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="105dp"
+        android:text="@string/avg_temp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@+id/AvgTemp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.388"
+        app:layout_constraintStart_toEndOf="@+id/AvgTemp"
+        app:layout_constraintTop_toBottomOf="@+id/tempperHour"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/PredictTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="256dp"
+        android:layout_marginBottom="264dp"
+        android:onClick="showFutureTemp"
+        android:text="@string/upcoming_temp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/AvgTemp"
+        tools:text="Upcoming Temp" />
+
+    <TextView
+        android:id="@+id/FutureTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="32dp"
+        android:text="@string/futuretemp"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.675"
+        app:layout_constraintStart_toEndOf="@+id/PredictTemp"
+        app:layout_constraintTop_toBottomOf="@+id/averagetemp"
+        app:layout_constraintVertical_bias="0.222" />
+
+    <TextView
+        android:id="@+id/tempperHour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="62dp"
+        android:text="@string/showtemp"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@+id/AvgTemp"
+        app:layout_constraintEnd_toEndOf="@+id/averagetemp"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/Hour"
+        app:layout_constraintTop_toTopOf="@+id/Hour"
+        app:layout_constraintVertical_bias="0.295" />
+
+    <TextView
+        android:id="@+id/TextforPast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/showpast"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.178"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/PredictTemp"
+        app:layout_constraintVertical_bias="0.51" />
+
+    <TextView
+        android:id="@+id/Temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/temperature"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/FutureTemp"
+        app:layout_constraintTop_toBottomOf="@+id/FutureTemp"
+        app:layout_constraintVertical_bias="0.533"
+        tools:text="Temperature" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

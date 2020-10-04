@@ -1,0 +1,390 @@
+Welcome to our first edition of the Go-Fish game with our contestants: Sohaib and Jim
+
+Sohaib's hand: 2s 4s 3s 8s Ac Qs 5d 
+Jim's hand: As 10s 5s 7s 9s Js Ks 
+
+Sohaib's books: 
+Jim's books: 
+
+Plays from each player:
+
+Sohaib has Books - 
+Jim has Books - 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any Q's?
+Jim says - Go Fish.
+Sohaib draws the 2h.
+Sohaib books the pair of 2s.
+Sohaib has Books - 2s 2h 
+Jim has Books - 
+
+It is Jim's turn.
+Jim asks - Do you have any J's?
+Sohaib says - Go Fish.
+Jim draws the 3h.
+Sohaib has Books - 2s 2h 
+Jim has Books - 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 4's?
+Jim says - Go Fish.
+Sohaib draws the 4h.
+Sohaib books the pair of 4s.
+Sohaib has Books - 2s 2h 4s 4h 
+Jim has Books - 
+
+It is Jim's turn.
+Jim asks - Do you have any 10's?
+Sohaib says - Go Fish.
+Jim draws the 5h.
+Jim books the pair of 5s.
+Sohaib has Books - 2s 2h 4s 4h 
+Jim has Books - 5s 5h 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 8's?
+Jim says - Go Fish.
+Sohaib draws the 6h.
+Sohaib has Books - 2s 2h 4s 4h 
+Jim has Books - 5s 5h 
+
+It is Jim's turn.
+Jim asks - Do you have any 10's?
+Sohaib says - Go Fish.
+Jim draws the 7h.
+Jim books the pair of 7s.
+Sohaib has Books - 2s 2h 4s 4h 
+Jim has Books - 5s 5h 7s 7h 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 3's?
+Jim says - Yes. I have a 3.
+Sohaib books the pair of 3s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 
+Jim has Books - 5s 5h 7s 7h 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 6's?
+Jim says - Go Fish.
+Sohaib draws the 8h.
+Sohaib books the pair of 8s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h 
+Jim has Books - 5s 5h 7s 7h 
+
+It is Jim's turn.
+Jim asks - Do you have any A's?
+Sohaib says - Yes. I have a A.
+Jim books the pair of As.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h 
+Jim has Books - 5s 5h 7s 7h Ac As 
+
+It is Jim's turn.
+Jim asks - Do you have any J's?
+Sohaib says - Go Fish.
+Jim draws the 9h.
+Jim books the pair of 9s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 5's?
+Jim says - Go Fish.
+Sohaib draws the 10h.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 
+
+It is Jim's turn.
+Jim asks - Do you have any 10's?
+Sohaib says - Yes. I have a 10.
+Jim books the pair of 10s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s 
+
+It is Jim's turn.
+Jim asks - Do you have any K's?
+Sohaib says - Go Fish.
+Jim draws the Jh.
+Jim books the pair of Js.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any Q's?
+Jim says - Go Fish.
+Sohaib draws the Qh.
+Sohaib books the pair of Qs.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh 
+
+It is Jim's turn.
+Jim asks - Do you have any K's?
+Sohaib says - Go Fish.
+Jim draws the Kh.
+Jim books the pair of Ks.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 5's?
+Jim says - Go Fish.
+Sohaib draws the 9d.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 
+
+It is Jim's turn.
+Jim has no cards in their hand. They must draw another card.
+Jim draws the 2d.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 9's?
+Jim says - Go Fish.
+Sohaib draws the 3d.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 
+
+It is Jim's turn.
+Jim asks - Do you have any 2's?
+Sohaib says - Go Fish.
+Jim draws the 4d.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 3's?
+Jim says - Go Fish.
+Sohaib draws the Ah.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 
+
+It is Jim's turn.
+Jim asks - Do you have any 4's?
+Sohaib says - Go Fish.
+Jim draws the 6d.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any A's?
+Jim says - Go Fish.
+Sohaib draws the 7d.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 
+
+It is Jim's turn.
+Jim asks - Do you have any 6's?
+Sohaib says - Yes. I have a 6.
+Jim books the pair of 6s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d 
+
+It is Jim's turn.
+Jim asks - Do you have any 2's?
+Sohaib says - Go Fish.
+Jim draws the 8d.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 9's?
+Jim says - Go Fish.
+Sohaib draws the Ad.
+Sohaib books the pair of As.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d 
+
+It is Jim's turn.
+Jim asks - Do you have any 8's?
+Sohaib says - Go Fish.
+Jim draws the Qc.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 9's?
+Jim says - Go Fish.
+Sohaib draws the Jd.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d 
+
+It is Jim's turn.
+Jim asks - Do you have any 4's?
+Sohaib says - Go Fish.
+Jim draws the Qd.
+Jim books the pair of Qs.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 3's?
+Jim says - Go Fish.
+Sohaib draws the Kd.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 
+
+It is Jim's turn.
+Jim asks - Do you have any 2's?
+Sohaib says - Go Fish.
+Jim draws the 6s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 9's?
+Jim says - Go Fish.
+Sohaib draws the 2c.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 
+
+It is Jim's turn.
+Jim asks - Do you have any 8's?
+Sohaib says - Go Fish.
+Jim draws the 3c.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 9's?
+Jim says - Go Fish.
+Sohaib draws the 4c.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 
+
+It is Jim's turn.
+Jim asks - Do you have any 3's?
+Sohaib says - Yes. I have a 3.
+Jim books the pair of 3s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 
+
+It is Jim's turn.
+Jim asks - Do you have any 2's?
+Sohaib says - Yes. I have a 2.
+Jim books the pair of 2s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 
+
+It is Jim's turn.
+Jim asks - Do you have any 4's?
+Sohaib says - Yes. I have a 4.
+Jim books the pair of 4s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 
+
+It is Jim's turn.
+Jim asks - Do you have any 8's?
+Sohaib says - Go Fish.
+Jim draws the 5c.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any J's?
+Jim says - Go Fish.
+Sohaib draws the 6c.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 
+
+It is Jim's turn.
+Jim asks - Do you have any 6's?
+Sohaib says - Yes. I have a 6.
+Jim books the pair of 6s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 
+
+It is Jim's turn.
+Jim asks - Do you have any 8's?
+Sohaib says - Go Fish.
+Jim draws the 7c.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 9's?
+Jim says - Go Fish.
+Sohaib draws the 8c.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 
+
+It is Jim's turn.
+Jim asks - Do you have any 8's?
+Sohaib says - Yes. I have a 8.
+Jim books the pair of 8s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 8c 8d 
+
+It is Jim's turn.
+Jim asks - Do you have any 5's?
+Sohaib says - Yes. I have a 5.
+Jim books the pair of 5s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 8c 8d 5d 5c 
+
+It is Jim's turn.
+Jim asks - Do you have any 7's?
+Sohaib says - Yes. I have a 7.
+Jim books the pair of 7s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 8c 8d 5d 5c 7d 7c 
+
+It is Jim's turn.
+Jim has no cards in their hand. They must draw another card.
+Jim draws the 9c.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 8c 8d 5d 5c 7d 7c 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any J's?
+Jim says - Go Fish.
+Sohaib draws the 10c.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 8c 8d 5d 5c 7d 7c 
+
+It is Jim's turn.
+Jim asks - Do you have any 9's?
+Sohaib says - Yes. I have a 9.
+Jim books the pair of 9s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 8c 8d 5d 5c 7d 7c 9d 9c 
+
+It is Jim's turn.
+Jim has no cards in their hand. They must draw another card.
+Jim draws the Jc.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 8c 8d 5d 5c 7d 7c 9d 9c 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any 10's?
+Jim says - Go Fish.
+Sohaib draws the 10d.
+Sohaib books the pair of 10s.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 10c 10d 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 8c 8d 5d 5c 7d 7c 9d 9c 
+
+It is Jim's turn.
+Jim asks - Do you have any J's?
+Sohaib says - Yes. I have a J.
+Jim books the pair of Js.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 10c 10d 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 8c 8d 5d 5c 7d 7c 9d 9c Jd Jc 
+
+It is Jim's turn.
+Jim has no cards in their hand. They must draw another card.
+Jim draws the Kc.
+Sohaib has Books - 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 10c 10d 
+Jim has Books - 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 8c 8d 5d 5c 7d 7c 9d 9c Jd Jc 
+
+It is Sohaib's turn.
+Sohaib asks - Do you have any K's?
+Jim says - Yes. I have a K.
+Sohaib books the pair of Ks.
+
+Final Results
+Sohaib has Books: 2s 2h 4s 4h 3h 3s 8s 8h Qs Qh Ah Ad 10c 10d Kc Kd 
+Jim has Books: 5s 5h 7s 7h Ac As 9s 9h 10h 10s Js Jh Ks Kh 6h 6d Qc Qd 3d 3c 2c 2d 4c 4d 6c 6s 8c 8d 5d 5c 7d 7c 9d 9c Jd Jc 
+Jim has 18 books.
+Jim is the winner!!!
+
+Thank you for Playing Go-Fish. We hope that you all come back for the next edition of the game. Until then, Happy fishing!!
