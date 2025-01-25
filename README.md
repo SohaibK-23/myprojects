@@ -1,3 +1,1 @@
-#igvc 2019-2026
-This is awesome and cool!!
-# projects
+To this date, this is a list of projects throughout my university years and career.
