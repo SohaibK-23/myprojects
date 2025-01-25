@@ -1,4 +1,4 @@
-~Mary and Sohaib's Cheater Checker~
+Sohaib's Cheater Checker~
 
 Files Included
 --- 
@@ -23,3 +23,6 @@ Then type:
 [similarity_threshold] is the number of matching chunks two files must contain to be shown as plagiarizing.
 
 The program should return a list of file pairs preceded by the number of matching word chunks above the threshold outlined in the command-line arguments.
+
+Plagiarism Catcher
+Using Object-Oriented programming principles to create different classes such as HashTable and Chunks for constructing hash tables and analyzing word sequences to improve software maintability.
